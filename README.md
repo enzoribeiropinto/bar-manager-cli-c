@@ -194,8 +194,8 @@ Distributed under the MIT License. See `LICENSE` for details.
 ## 👤 Author
 
 **Daniela Silva and Enzo Pinto**
-[GitHub](https://github.com/<2dani2>) • [LinkedIn](https://linkedin.com/in/daniela-maria-marcelo-silva>)
-[GitHub](https://github.com/<enzoribeiropinto>)
+[GitHub](https://github.com/<enzoribeiropinto>) • [LinkedIn](https://linkedin.com/in/enzo-ribeiro-pinto>)
+
 
 <div align="center">
 
